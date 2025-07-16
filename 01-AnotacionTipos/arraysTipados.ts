@@ -21,5 +21,3 @@ let mixto: (string | number)[] = ["texto", 42, "otro texto", 100];
 let id: string | number;
 id = "ABC123"
 id = 12345
-
-//
